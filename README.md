@@ -23,6 +23,7 @@
 
 8,imblearn python对应的数据采样库<br/>
 
+9，loss函数的修改，focal loss、基于样本的数量的加权loss<br/>
 总结
 ----
 不要只实验自己熟悉的算法。<br/>
